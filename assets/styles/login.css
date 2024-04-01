@@ -1,0 +1,33 @@
+.frame {
+	display: flex;
+	flex-direction: column;
+	width: 330px;
+	height: 380px;
+	padding: 20px;
+	border-radius: 5%;
+	background-color: #ffffff2c;
+	box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.frame .title {
+	font-size: 40px;
+}
+
+.frame img {
+	align-self: center;
+	margin: 10px 0;
+}
+
+.frame form {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.frame .footer {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	color: #ffffffb1;
+	font-size: 15px;
+}
