@@ -1,6 +1,6 @@
 # Animated Background
 
-This project was based on Card by MikeAndrewDesigner from uiverse.io.
+This project was based on Card by MikeAndrewDesigner from uiverse.io and shows how can we make a animated background using only CSS.
 
 https://github.com/marcinhuk/AmimatedBackground/assets/117475726/6ddc5af1-fecb-40fe-84f7-a599aadb195d
 
