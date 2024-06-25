@@ -2,9 +2,7 @@
 
 This project was based on Card by MikeAndrewDesigner from uiverse.io.
 
-<video autoplay controls loop>
-	<source src="https://github.com/marcinhuk/AmimatedBackground/assets/117475726/6ddc5af1-fecb-40fe-84f7-a599aadb195d">
-</video>
+https://github.com/marcinhuk/AmimatedBackground/assets/117475726/6ddc5af1-fecb-40fe-84f7-a599aadb195d
 
 ## 🔨 Details for project execution:
 
